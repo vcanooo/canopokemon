@@ -1,0 +1,2 @@
+# canopokemon
+Jupyter Pokemon Project 
